@@ -1,4 +1,4 @@
-# Gamelet
+# Gamelet2
 
 A starter program for writing JavaScript games.
 
